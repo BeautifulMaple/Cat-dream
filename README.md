@@ -1,8 +1,5 @@
 # Cat-dream
 게임공학 프로젝트
+![스크린샷 2024-10-14 194124](https://github.com/user-attachments/assets/bb3f8eeb-e690-4ef3-b21f-6f4ae55c19d7)
 
 
-# 개선할 점
-코드 최적화
-퍼즐 요소 부족
-정확하게 마무리 되지 않음
